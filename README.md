@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Somiah Aloween</h1>
 <h3 align="center">I’m interested in SwiftUI, HTML and DataBase</h3>
 
-<img src="https://pbs.twimg.com/media/FNciw8oVUAIsx4X.png" Hspace="70" vspace"60" align="right" border="5" width="500" high="700" >
+<img src="https://pbs.twimg.com/media/FNciw8oVUAIsx4X.png" >
 
 
 - 🌱 I’m currently learning **SwiftUI + CSS + Cloud computing**
