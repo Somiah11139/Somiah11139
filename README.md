@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Somiah Aloween</h1>
+<h1 align="center">Hi 👋, I'm Somiah </h1>
 <h3 align="center">I’m interested in SwiftUI, HTML and DataBase</h3>
 
 <img src="https://pbs.twimg.com/media/FNciw8oVUAIsx4X.png" >
