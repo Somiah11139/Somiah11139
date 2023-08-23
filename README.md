@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Somiah </h1>
-<h3 align="center">I’m interested in SwiftUI, HTML and DataBase</h3>
+<h3 align="center">I’m interested in Web development,Swift, UX-UI Design</h3>
 
 <img src="https://pbs.twimg.com/media/FNciw8oVUAIsx4X.png" >
 
 
-- 🌱 I’m currently learning **SwiftUI + CSS + Cloud computing**
+- 🌱 I’m currently learning ** React**
 
 - 📝 I regularly write articles on **DataBase security**
 
